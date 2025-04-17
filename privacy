@@ -1,0 +1,33 @@
+Privacy Policy (Chính sách quyền riêng tư)
+Effective Date: 10/04/2025
+
+Chúng tôi tôn trọng quyền riêng tư của bạn và cam kết bảo vệ thông tin cá nhân mà bạn chia sẻ khi sử dụng GPT này. Chính sách này mô tả cách thức chúng tôi thu thập, sử dụng và bảo vệ thông tin khi bạn tương tác với GPT thông qua nền tảng ChatGPT của OpenAI.
+
+1. Thông tin chúng tôi thu thập
+GPT này có thể thu thập và xử lý các loại thông tin sau khi bạn sử dụng:
+
+Câu hỏi hoặc nội dung bạn nhập vào trong khi trò chuyện (dữ liệu truy vấn).
+
+Dữ liệu có thể được gửi đến bên thứ ba như webhook n8n, hệ thống Pinecone, hoặc các API khác để xử lý và trả lời.
+
+Chúng tôi không thu thập thông tin cá nhân như tên, email, số điện thoại trừ khi bạn tự nguyện cung cấp trong đoạn chat.
+
+2. Cách chúng tôi sử dụng thông tin
+Thông tin bạn gửi sẽ chỉ được sử dụng để:
+
+Thực hiện các chức năng mà GPT này cung cấp (ví dụ: truy vấn kiến thức, trả lời câu hỏi, tích hợp RAG từ Pinecone).
+
+Cải thiện độ chính xác của phản hồi (nếu có áp dụng mô hình học máy).
+
+3. Bảo mật thông tin
+Dữ liệu được xử lý thông qua nền tảng OpenAI và các dịch vụ trung gian (như n8n) được bảo mật theo tiêu chuẩn kỹ thuật hợp lý. Chúng tôi không lưu trữ dữ liệu cá nhân trên máy chủ riêng.
+
+4. Chia sẻ với bên thứ ba
+Chúng tôi không chia sẻ thông tin của bạn với bất kỳ bên thứ ba nào ngoài các dịch vụ trung gian cần thiết để GPT hoạt động (như n8n, Pinecone, OpenAI).
+
+5. Quyền của bạn
+Bạn có quyền không sử dụng GPT này nếu không đồng ý với chính sách quyền riêng tư. Bạn cũng có thể yêu cầu xóa thông tin nếu bạn tin rằng có dữ liệu cá nhân bị lưu trữ ngoài ý muốn.
+
+6. Liên hệ
+Nếu bạn có bất kỳ câu hỏi nào về chính sách quyền riêng tư này, vui lòng liên hệ với chúng tôi qua email: vantan.co111@gmail.com
+
